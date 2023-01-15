@@ -1,6 +1,6 @@
 ### ポートフォリオ👋
 
-最近は(こちら)[https://github.com/phishing-hunter/phishing-hunter]のアカウントで活動しています。  
+最近は[こちら](https://github.com/phishing-hunter/phishing-hunter)のアカウントで活動しています。  
 本アカウントはセキュリティに関係ないコードをPushしています。  
 
 [![Github](https://img.shields.io/github/followers/tatsu-i?label=Follow&style=social)](https://github.com/tatsu-i)
