@@ -66,7 +66,7 @@ I'm looking for [GitHub sponsors](https://github.com/sponsors/phishing-hunter).
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=tatsu-i&count_private=true&show_icons=true&show_icons=true&theme=github" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tatsu-i&theme=github)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tatsu-i&theme=github)](https://github.com/tatsu-i/github-profile-trophy)
 [![](https://raw.githubusercontent.com/tatsu-i/tatsu-i/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/tatsu-i/tatsu-i/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/tatsu-i/tatsu-i/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
