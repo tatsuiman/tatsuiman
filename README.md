@@ -1,6 +1,6 @@
 ### ポートフォリオ👋
 
-↓↓↓↓↓↓↓ フォローお願いします ↓↓↓↓↓↓↓
+↓↓ フォローお願いします ↓↓
 
 [![Github](https://img.shields.io/github/followers/tatsu-i?label=Follow&style=social)](https://github.com/tatsu-i)
 
