@@ -13,10 +13,8 @@ I am developing [phishing-hunter](https://phishing-hunter.com/)
 I'm looking for [GitHub sponsors](https://github.com/sponsors/phishing-hunter).
 
 ### Active Projects
-* [auto-hunter](https://github.com/phishing-hunter/auto-hunter)
-* [phishing-blocker](https://github.com/phishing-hunter/phishing-blocker)
-* [fakeshell](https://github.com/phishing-hunter/fakeshell)
-* [proxypot](https://github.com/phishing-hunter/proxypot)
+* [team-ai-assistant](https://github.com/tatsu-i/team-ai-assistant)
+* [slack-team-analyzer](https://github.com/tatsu-i/slack-team-analyzer)
 
 ### Account Stats
 <p align="left"> 
