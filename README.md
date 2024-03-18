@@ -13,7 +13,7 @@ I am developing [phishing-hunter](https://phishing-hunter.com/)
 I'm looking for [GitHub sponsors](https://github.com/sponsors/phishing-hunter).
 
 ### Active Projects
-* [team-ai-assistant](https://github.com/tatsu-i/team-ai-assistant)
+* [slack-copilot](https://github.com/tatsu-i/slack-copilot)
 * [slack-team-analyzer](https://github.com/tatsu-i/slack-team-analyzer)
 
 ### Account Stats
