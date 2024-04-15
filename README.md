@@ -1,7 +1,5 @@
 ### ポートフォリオ👋
 
-↓↓ フォローお願いします ↓↓
-
 [![Github](https://img.shields.io/github/followers/tatsuiman?label=Follow&style=social)](https://github.com/tatsuiman)
 
 I am developing [phishing-hunter](https://phishing-hunter.com/)
