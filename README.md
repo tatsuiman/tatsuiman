@@ -10,7 +10,6 @@ I am developing [phishing-hunter](https://phishing-hunter.com/)
 * Deep domain knowledge of cybersecurity
 * Implementing observability with ELK
 
-I'm looking for [GitHub sponsors](https://github.com/sponsors/phishing-hunter).
 
 ### Active Projects
 * [slack-copilot](https://github.com/tatsuiman/slack-copilot)
